@@ -1,1 +1,1 @@
-print("No instapekes duelista")
+print("La grasa")
